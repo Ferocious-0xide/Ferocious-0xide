@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ferocious-0xide
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning Rust for data engineering
+- 🌱 I’m currently learning Rust for data engineering while working on my Masters in Data Science
 - 💞️ I’m looking to collaborate on projects that stretch my knowledge and skills
 - 📫 How to reach me here is fine or on LinkedIn
 - ⚡ Fun fact: I make a mean red curry 
